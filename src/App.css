@@ -1,0 +1,19 @@
+.display {
+  background: #f0f0f0;
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: right;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.button {
+  background: #f0f0f0;
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: right;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 0.2rem;
+}
